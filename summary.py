@@ -183,9 +183,9 @@ class S3VideoProcessor:
             cur_time = []
             if len(line) < 5: continue
             
-            embedding1 = self.get_bert_embedding(line)
+            embedding1 = self.get_bart_embedding(line)
             for origin in each_sent_encode:
-                embedding2 = self.get_bert_embedding(origin['text'])
+                embedding2 = self.get_bart_embedding(origin['text'])
                 cur_sim = cosine_similarity(embedding1, embedding2)
                 cur_time.append({'time':[origin['start'], origin['end']], 'sim':cur_sim})
 
@@ -196,8 +196,8 @@ class S3VideoProcessor:
 
         self.save_to_database(news_id,seg_summary[:len(time_stamp)], time_stamp)
 
-    def get_bert_embedding(self, sentence):
-        inputs = self.bert_tokenizer(sentence, return_tensors='pt', padding=True, truncation=True, max_length=512)
+    def get_bart_embedding(self, sentence):
+        inputs = self.tokenizer(sentence, return_tensors='pt', padding=True, truncation=True, max_length=512)
         if 'token_type_ids' in inputs:
             del inputs['token_type_ids']
         
