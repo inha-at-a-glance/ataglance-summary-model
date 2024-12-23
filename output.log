@@ -1,0 +1,132 @@
+nohup: ignoring input
+Processing video for news_id: 1179
+clova speech request:  https://ataglance-bucket.s3.amazonaws.com/1179/1179.mp4
+Succeeded
+[[34290, 40484], [21189, 28325], [41604, 49400], [85160, 97450], [102465, 113209]]
+2024-12-16 13:52:54
+0:00:40.203768
+Processing video for news_id: 1180
+clova speech request:  https://ataglance-bucket.s3.amazonaws.com/1180/1180.mp4
+Succeeded
+[[8500, 18755], [48435, 56420], [48435, 56420], [1640, 8500]]
+2024-12-16 13:54:29
+0:00:34.958231
+Processing video for news_id: 1182
+clova speech request:  https://ataglance-bucket.s3.amazonaws.com/1182/1182.mp4
+Succeeded
+[[1380, 10305], [30920, 38065], [55275, 61239], [76435, 81515], [88675, 97370]]
+2024-12-16 13:56:05
+Processing video for news_id: 1181
+clova speech request:  https://ataglance-bucket.s3.amazonaws.com/1181/1181.mp4
+Succeeded
+[[9080, 17435], [83920, 90354], [66355, 77285], [83920, 90354], [98479, 106625]]
+2024-12-16 13:56:43
+Processing video for news_id: 1183
+clova speech request:  https://ataglance-bucket.s3.amazonaws.com/1183/1183.mp4
+Succeeded
+[[21970, 31225], [67305, 72515], [87789, 94595], [110884, 119365]]
+2024-12-16 13:57:21
+0:01:51.854574
+Processing video for news_id: 1187
+clova speech request:  https://ataglance-bucket.s3.amazonaws.com/1187/1187.mp4
+Succeeded
+[[1000, 10190], [14500, 22755], [38464, 47569], [80465, 84414], [84414, 94035]]
+2024-12-16 13:59:01
+Processing video for news_id: 1184
+clova speech request:  https://ataglance-bucket.s3.amazonaws.com/1184/1184.mp4
+Succeeded
+[[58754, 67789], [67789, 78260], [101835, 109000], [154930, 166405]]
+2024-12-16 13:59:46
+Processing video for news_id: 1185
+clova speech request:  https://ataglance-bucket.s3.amazonaws.com/1185/1185.mp4
+Succeeded
+[[21260, 27793], [44515, 55115], [55115, 64835], [86245, 95789], [107044, 114190]]
+2024-12-16 14:00:30
+Processing video for news_id: 1186
+clova speech request:  https://ataglance-bucket.s3.amazonaws.com/1186/1186.mp4
+Succeeded
+[[17550, 23690], [37145, 49000], [58030, 66240], [113430, 121110]]
+2024-12-16 14:01:05
+0:02:43.909931
+Processing video for news_id: 1188
+clova speech request:  https://ataglance-bucket.s3.amazonaws.com/1188/1188.mp4
+대상 파일 가져오기 실패했습니다. 파일 경로와 파일 포맷을 확인해 주세요.
+RDS 처리 중 오류 발생: 'text'
+Processing video for news_id: 1188
+clova speech request:  https://ataglance-bucket.s3.amazonaws.com/1188/1188.mp4
+대상 파일 가져오기 실패했습니다. 파일 경로와 파일 포맷을 확인해 주세요.
+RDS 처리 중 오류 발생: 'text'
+Processing video for news_id: 1188
+clova speech request:  https://ataglance-bucket.s3.amazonaws.com/1188/1188.mp4
+대상 파일 가져오기 실패했습니다. 파일 경로와 파일 포맷을 확인해 주세요.
+RDS 처리 중 오류 발생: 'text'
+Processing video for news_id: 1188
+clova speech request:  https://ataglance-bucket.s3.amazonaws.com/1188/1188.mp4
+대상 파일 가져오기 실패했습니다. 파일 경로와 파일 포맷을 확인해 주세요.
+RDS 처리 중 오류 발생: 'text'
+Processing video for news_id: 1188
+clova speech request:  https://ataglance-bucket.s3.amazonaws.com/1188/1188.mp4
+대상 파일 가져오기 실패했습니다. 파일 경로와 파일 포맷을 확인해 주세요.
+RDS 처리 중 오류 발생: 'text'
+Processing video for news_id: 1188
+clova speech request:  https://ataglance-bucket.s3.amazonaws.com/1188/1188.mp4
+대상 파일 가져오기 실패했습니다. 파일 경로와 파일 포맷을 확인해 주세요.
+RDS 처리 중 오류 발생: 'text'
+Processing video for news_id: 1189
+clova speech request:  https://ataglance-bucket.s3.amazonaws.com/1189/1189.mp4
+Succeeded
+[[0, 7110], [35509, 41684], [47400, 56110], [70110, 82230], [107205, 114790]]
+2024-12-16 14:08:56
+0:00:39.861277
+Processing video for news_id: 1190
+clova speech request:  https://ataglance-bucket.s3.amazonaws.com/1190/1190.mp4
+Succeeded
+[[67030, 72384], [30675, 36885], [80835, 88805], [107000, 115320]]
+2024-12-16 14:10:34
+0:00:38.364435
+0:00:00.000005
+0:00:00.000006
+Processing video for news_id: 1191
+clova speech request:  https://ataglance-bucket.s3.amazonaws.com/1191/1191.mp4
+Succeeded
+[[31790, 41115], [51125, 61285], [68355, 78029], [123514, 134869], [145369, 154660]]
+2024-12-16 14:14:19
+Processing video for news_id: 1192
+clova speech request:  https://ataglance-bucket.s3.amazonaws.com/1192/1192.mp4
+Succeeded
+[[0, 11125], [34390, 42160], [34390, 42160], [102905, 112020]]
+2024-12-16 14:14:53
+0:01:18.781321
+Processing video for news_id: 1194
+clova speech request:  https://ataglance-bucket.s3.amazonaws.com/1194/1194.mp4
+Succeeded
+[[24435, 32064], [99065, 108305], [58114, 63595], [73485, 80645], [111190, 119660]]
+2024-12-16 14:16:34
+Processing video for news_id: 1193
+clova speech request:  https://ataglance-bucket.s3.amazonaws.com/1193/1193.mp4
+Succeeded
+[[0, 9710], [20290, 26130], [63790, 70955], [103065, 111760]]
+2024-12-16 14:17:06
+0:01:12.418737
+Processing video for news_id: 1197
+clova speech request:  https://ataglance-bucket.s3.amazonaws.com/1197/1197.mp4
+Succeeded
+[[0, 11310], [28379, 36634], [43035, 48220], [82340, 90384], [123384, 132180]]
+2024-12-16 14:18:49
+Processing video for news_id: 1196
+clova speech request:  https://ataglance-bucket.s3.amazonaws.com/1196/1196.mp4
+Succeeded
+[[5870, 16065], [31080, 40210], [67465, 73544], [94950, 102195], [110725, 120870]]
+2024-12-16 14:19:30
+Processing video for news_id: 1195
+clova speech request:  https://ataglance-bucket.s3.amazonaws.com/1195/1195.mp4
+Succeeded
+[[12175, 16479], [36075, 45400], [54355, 62355], [85995, 93675], [101225, 109370]]
+2024-12-16 14:20:09
+0:02:03.031866
+Processing video for news_id: 1198
+clova speech request:  https://ataglance-bucket.s3.amazonaws.com/1198/1198.mp4
+Succeeded
+[[61080, 65385], [24964, 38705], [61080, 65385], [89680, 93825]]
+2024-12-16 14:21:37
+0:00:28.258104

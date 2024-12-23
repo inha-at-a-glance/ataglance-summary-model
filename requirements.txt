@@ -1,0 +1,7 @@
+boto3
+datetime
+torch==1.7.1
+transformers
+scikit-learn
+pymysql
+requests
