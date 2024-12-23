@@ -202,7 +202,7 @@ class S3VideoProcessor:
             del inputs['token_type_ids']
         
         with torch.no_grad():
-            outputs = self.bert_model(**inputs)
+            outputs = self.model(**inputs)
 
         embedding = outputs.encoder_last_hidden_state.mean(dim=1).numpy()
         return embedding
